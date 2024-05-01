@@ -28,32 +28,6 @@ The PetMaster project is a comprehensive solution that uses IoT devices and soft
 
 ![image](https://seniorassistant.oss-cn-hangzhou.aliyuncs.com/oss-img-path/PM_RM4.png)
 
-## Customer Journey
-
-1. **8:00AM - Morning Routine**
-
-<video src="https://seniorassistant.oss-cn-hangzhou.aliyuncs.com/oss-img-path/PM_RM_Video1.mov"></video>
-
-2. **13:00PM - Midday Rest**
-
-<video src="https://seniorassistant.oss-cn-hangzhou.aliyuncs.com/oss-img-path/PM_RM_Video2.mov"></video>
-
-3. **17:00PM - Walking the Dog**
-
-<video src="https://seniorassistant.oss-cn-hangzhou.aliyuncs.com/oss-img-path/PM_RM_Video3.mov"></video>
-
-4. **18:00PM - After Dog Walk**
-
-<video src="https://seniorassistant.oss-cn-hangzhou.aliyuncs.com/oss-img-path/PM_RM_Video4.mov"></video>
-
-5. **18:30PM - Pet at Home**
-
-<video src="https://seniorassistant.oss-cn-hangzhou.aliyuncs.com/oss-img-path/PM_RM_Video5.mov"></video>
-
-6. **20:00PM - During Sleep**
-
-<video src="https://seniorassistant.oss-cn-hangzhou.aliyuncs.com/oss-img-path/PM_RM_Video6.mov"></video>
-
 ## Products
 
 1. **Food Feeder**
